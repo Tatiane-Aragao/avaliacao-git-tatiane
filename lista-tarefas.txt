@@ -1,0 +1,3 @@
+Estudar mais sobre Git e GitHub 
+Concluir o exercico proposto na aula
+Enviar o exercicio para o formador assim que finalizar
