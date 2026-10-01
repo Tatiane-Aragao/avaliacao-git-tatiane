@@ -36,7 +36,7 @@ O ficheiro `README2.md` contém a documentação deste projeto.
 *Markdown* é utilizado para organizar a documentação. 
 
 ## Links úteis
-[GitHub] (https://github.com)
+[GitHub](https://github.com)
 
 ## Tarefas 
 
