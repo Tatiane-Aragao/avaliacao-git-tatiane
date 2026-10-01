@@ -48,7 +48,7 @@ O ficheiro `README2.md` contém a documentação deste projeto.
 > O README2 ajuda a explicar o objetivo e a organização do projeto.
 
 ## Imagem 
-![Logo do GitHub](https://github.github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Logo do GitHub](imagem1.png)
 
 
 
